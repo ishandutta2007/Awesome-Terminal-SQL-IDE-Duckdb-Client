@@ -9,3 +9,12 @@ Would you like me to:
 
 Let me know how you'd like to proceed!
 </FollowUp>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
+  </picture>
+</a>
