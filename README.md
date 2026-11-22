@@ -232,3 +232,12 @@ Star the repo if you find it useful!
 **Made for data engineers, analytics engineers, SQL power users, and open-source developers.**  
 
 Let's make terminal SQL workflows and local-first analytics faster, open, and keyboard-driven.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
+  </picture>
+</a>
