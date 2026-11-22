@@ -8,7 +8,8 @@
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-Native-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://img.shields.io/badge/Curated-Awesome_List-blue.svg?style=flat-square" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Curated-Awesome_List-blue.svg?style=flat-square" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 # 🚀 Awesome Terminal SQL IDE & DuckDB Client Ecosystem
@@ -37,6 +38,7 @@ From lightning-fast columnar querying on local Parquet, CSV, and JSON files to m
   - [⭐ Top-Tier Terminal SQL IDEs & DuckDB Clients](#-top-tier-terminal-sql-ides--duckdb-clients)
   - [🌟 Specialized Engines, Notebooks & Query Frameworks](#-specialized-engines-notebooks--query-frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Best Practices](#️-disclaimer--best-practices)
 - [📈 Star History](#-star-history)
 
@@ -139,6 +141,17 @@ Contributions, bug reports, and project submissions are very welcome!
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing the **Awesome Terminal SQL IDE & DuckDB Client** repository! If you find this curated resource helpful for your local data engineering or analytical workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** by submitting new terminal SQL tools and DuckDB extensions.
+- 📢 **Share** with your network, team, and developer communities.
+- ☕ **Buy a coffee & sponsor**: Support continuous curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚖️ Disclaimer & Best Practices
 
 - This is a community-maintained curated list for educational and discovery purposes; inclusion does not imply an official endorsement.
@@ -150,11 +163,6 @@ Contributions, bug reports, and project submissions are very welcome!
   <b>⭐ Star this repository if you find it helpful for your terminal and DuckDB workflows! ⭐</b>
 </p>
 
-## 📈 Star History
-
-<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-SQL-IDE-Duckdb-Client_growth.svg">
-  </picture>
-</a>
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&type=date&legend=top-left)`
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Terminal-SQL-IDE-Duckdb-Client&type=date&legend=top-left)`
